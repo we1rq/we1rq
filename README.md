@@ -29,8 +29,8 @@
 - 💻 Creator of custom scripts for smart card brute force PIN attempts and programming.
 
 ## 🌐 Connect with Me:
-- **Website:** [status.corbucks.com](https://status.corbucks.com)
-- **GitHub:** [Corb.in](https://github.com/Corb-in)
+- **Website:** [corbucks.com](https://corbucks.com)
+- **GitHub:** [Corb.in](https://github.com/we1rq)
 
 ---
 
