@@ -34,5 +34,5 @@
 
 ---
 
-![Corbucks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Corb-in&show_icons=true&theme=radical)
+![Corbucks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=we1rq&show_icons=true&theme=radical)
 
