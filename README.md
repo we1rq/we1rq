@@ -9,7 +9,12 @@
 - 🖥️ Manages my own network services and monitors system resources.
 - 👨‍💻 Full-stack JavaScript developer (Discord bots, Express.js, Node.js).
 - 🛡️ Running an ethical pen-testing hacking server on Discord.
+- 💻 Co-Founder of Flatlined: An elite collective of ethical hackers reshaping the digital frontier.
 - 🎤 Ordained minister.
+
+## 💿 Hacking Placement
+- Second Place in a 16 Team Event
+- Third Place in a over 500 People event
 
 ## ⚙️ Tools & Technologies:
 - **Languages:** JavaScript (Discord.js), Python, APDU scripting for smart card programming.
