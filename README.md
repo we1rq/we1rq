@@ -9,7 +9,7 @@
 - 🖥️ Manages my own network services and monitors system resources.
 - 👨‍💻 Full-stack JavaScript developer (Discord bots, Express.js, Node.js).
 - 🛡️ Running an ethical pen-testing hacking server on Discord.
-- 💻 Co-Founder of Flatlined: An elite collective of ethical hackers reshaping the digital frontier.
+- 💻 Co-Founder of 2077: An elite collective of ethical hackers reshaping the digital frontier.
 - 🎤 Ordained minister.
 
 ## 💿 Hacking Placement
